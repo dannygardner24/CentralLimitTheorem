@@ -18,4 +18,6 @@ Dependencies:
 - wheel           0.37.1
 
 Clone this library with:
-'git clone 
+'''
+git clone https://github.com/dannygardner24/CentralLimitTheorem.git
+'''
