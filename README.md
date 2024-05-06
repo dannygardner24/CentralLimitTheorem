@@ -18,6 +18,6 @@ Dependencies:
 - wheel           0.37.1
 
 Clone this library with:
-'''
-git clone https://github.com/dannygardner24/CentralLimitTheorem.git
-'''
+`git clone https://github.com/dannygardner24/CentralLimitTheorem.git`
+Run the simulation with:
+`python3 main.py`
