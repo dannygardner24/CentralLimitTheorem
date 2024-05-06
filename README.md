@@ -1,8 +1,8 @@
 This project generates data for cumulative coin flips and dice rolls, and plots them onto a graph using MatPlotLib. 
 
 Dependencies:
+
 Package         Version
---------------- -----------
 contourpy       1.2.1
 cycler          0.12.1
 fonttools       4.51.0
